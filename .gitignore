@@ -1,0 +1,7 @@
+.idea
+*.iml
+*.xml
+/out
+# comment with hashtag
+# * means to   ask for all files
+# /  its a folder for us to know
